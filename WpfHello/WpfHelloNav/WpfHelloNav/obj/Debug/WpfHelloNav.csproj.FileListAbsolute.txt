@@ -1,0 +1,37 @@
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\bin\Debug\WpfHelloNav.exe.config
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\bin\Debug\WpfHelloNav.exe
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\bin\Debug\WpfHelloNav.pdb
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\MainWindow.g.cs
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\App.g.cs
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav_MarkupCompile.cache
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav_MarkupCompile.lref
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\MainWindow.baml
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.g.resources
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.Properties.Resources.resources
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.csproj.GenerateResource.cache
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.csproj.CoreCompileInputs.cache
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.exe
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.pdb
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page1.g.cs
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page2.g.cs
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page1.baml
+C:\Users\kioan\desktopapps\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page2.baml
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\bin\Debug\WpfHelloNav.exe.config
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\bin\Debug\WpfHelloNav.exe
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\bin\Debug\WpfHelloNav.pdb
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.csprojAssemblyReference.cache
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\MainWindow.g.cs
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page1.g.cs
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page2.g.cs
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\App.g.cs
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav_MarkupCompile.cache
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav_MarkupCompile.lref
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\MainWindow.baml
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page1.baml
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\Page2.baml
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.g.resources
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.Properties.Resources.resources
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.csproj.GenerateResource.cache
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.csproj.CoreCompileInputs.cache
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.exe
+C:\Users\Лена Одношивкина\Source\Repos\desktop_apps_iks\WpfHello\WpfHelloNav\WpfHelloNav\obj\Debug\WpfHelloNav.pdb
