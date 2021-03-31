@@ -1,0 +1,30 @@
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\bin\Debug\IncPad.exe.config
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\bin\Debug\IncPad.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\bin\Debug\IncPad.pdb
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\MainWindow.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\App.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad_MarkupCompile.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad_MarkupCompile.lref
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\MainWindow.baml
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.g.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\IncPad\IncPad\obj\Debug\IncPad.pdb
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\bin\Debug\IncPad.exe.config
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\bin\Debug\IncPad.exe
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\bin\Debug\IncPad.pdb
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.csprojAssemblyReference.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\MainWindow.g.cs
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\App.g.cs
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad_MarkupCompile.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad_MarkupCompile.lref
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\MainWindow.baml
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.g.resources
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.Properties.Resources.resources
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.csproj.GenerateResource.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.csproj.CoreCompileInputs.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.exe
+C:\Users\Лена Одношивкина\source\repos\WPF_2\IncPad\IncPad\obj\Debug\IncPad.pdb

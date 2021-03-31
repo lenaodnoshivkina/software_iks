@@ -1,0 +1,30 @@
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\bin\Debug\UserForms.exe.config
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\bin\Debug\UserForms.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\bin\Debug\UserForms.pdb
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\App.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\MainWindow.baml
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.g.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_2\WPF_2\UserForms\UserForms\obj\Debug\UserForms.pdb
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\bin\Debug\UserForms.exe.config
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\bin\Debug\UserForms.exe
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\bin\Debug\UserForms.pdb
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.csprojAssemblyReference.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\App.g.cs
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\MainWindow.baml
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.g.resources
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.exe
+C:\Users\Лена Одношивкина\source\repos\WPF_2\UserForms\UserForms\obj\Debug\UserForms.pdb
